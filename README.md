@@ -16,5 +16,5 @@ Currently, the codes are proveided only for reference and cannot run due the the
 
 To run the codes:
 1. first install the environment:  setup.sh
-2. for side effect model learning: run_SIDER4.sh
-3. for indication model training: run_indication.sh
+2. for drug side effect training: run_SIDER4.sh
+3. for drug indication training: run_indication.sh
