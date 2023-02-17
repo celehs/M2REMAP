@@ -10,7 +10,7 @@ We introduce a Multi-Modal REpresentation Mapping Approach to Predicting molecul
 via a deep neural network onto the clinical semantic embedding space shared by drugs, diseases, and  other common clinical concepts. To infer molecule-disease relations, M2REMAP combines multimodal
 molecule representation and disease semantic embedding to jointly infer indications and side effects.
 
-Currently, the codes are proveided only for reference and cannot run due the the lack of the EHR embedding vecotrs. The embedding vectors will be published later.
+Currently, the codes are provided only for a reference and cannot run directly due the the lack of the EHR embedding vecotrs, which will be published later.
 
 ![img.png](img.png)
 
