@@ -1,4 +1,5 @@
 # M2REMAP
+This repository contains the code and data for "Multimodal Representation Learning for Predicting Molecule-Disease Relations"
 
 
 Predicting molecule-disease indications and side effects is important for drug development and pharmacovigilance. Comprehensively mining molecule-molecule, molecule-disease, and disease-
