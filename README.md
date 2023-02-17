@@ -14,7 +14,16 @@ Currently, the codes are proveided only for reference and cannot run due the the
 ![img.png](img.png)
 
 
-To run the codes:
-1. first install the environment:  setup.sh
-2. for drug side effect training: run_SIDER4.sh
-3. for drug indication training: run_indication.sh
+# Requirements
+* python 3.7
+* tensorflow==2.3.0
+* numpy >= 1.19
+* pandas >= 1.3
+* scikit-learn >= 1.0.2
+
+# Usage
+```sh
+  1. first install the environment:  setup.sh
+  2. side effect model learning: run_SIDER4.sh
+  3. indication model training: run_indication.sh
+```
